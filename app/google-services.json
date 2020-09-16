@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "375544579322",
+    "firebase_url": "https://fir-auth-deb9a.firebaseio.com",
+    "project_id": "fir-auth-deb9a",
+    "storage_bucket": "fir-auth-deb9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375544579322:android:0816a516dce2ed84a97543",
+        "android_client_info": {
+          "package_name": "co.id.aminfaruq.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375544579322-vp4lqq7b52qm50egafbt0v9sj98l71u1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD54uwMd6QnCGvx1c_0BNQpbI8Xb699jf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375544579322-vp4lqq7b52qm50egafbt0v9sj98l71u1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
